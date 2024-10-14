@@ -1,0 +1,20 @@
+{
+  "name": "postgres_prisma",
+  "version": "1.0.0",
+  "description": "harkirat cohort lecture practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/pg": "^8.11.10",
+    "typescript": "^5.6.3"
+  },
+  "dependencies": {
+    "express": "^4.21.1",
+    "pg": "^8.13.0"
+  }
+}
